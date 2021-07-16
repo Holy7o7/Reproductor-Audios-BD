@@ -1,0 +1,23 @@
+Coleccion "archivos"
+
+{    
+    idArch
+    fecha_de_grabacion
+    ciudad
+    duracion
+    formato
+    latitud
+    longitud
+    ubicacion
+    usuario: {rut,nombre,apellido}
+    segmentos: [{idSeg,formato,duracion,inicio,fin,etiquetas: [{nombre_fuente,descripcion,id_analizador}]}]                             
+}
+
+Coleccion "audios"
+
+{
+nombre_archivo 
+file 
+descripcion
+fecha_archivo
+}
