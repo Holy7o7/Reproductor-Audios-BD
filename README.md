@@ -1,4 +1,4 @@
-# INFO133: Base de datos - Reproductor de Audios almacenados en una base de datos
+# INFO133: Base de datos - Reproductor de Audios almacenados en una base de datos (V 1.0)
 
 El programa almacena audios en una base de datos y luego da la posiblidad de reproducirlos.
 
